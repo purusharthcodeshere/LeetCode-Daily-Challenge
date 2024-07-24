@@ -16,4 +16,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0180-consecutive-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
