@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0184-department-highest-salary](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0185-department-top-three-salaries) |
 | [1179-game-play-analysis-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1182-game-play-analysis-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
