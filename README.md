@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -53,8 +54,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
+## String
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
