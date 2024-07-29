@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1182-game-play-analysis-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1268-market-analysis-i) |
 ## Divide and Conquer
 |  |
 | ------- |
