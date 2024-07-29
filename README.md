@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1135-customers-who-bought-all-products](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1161-project-employees-i) |
+| [1174-sales-analysis-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1182-game-play-analysis-iv) |
 ## Divide and Conquer
