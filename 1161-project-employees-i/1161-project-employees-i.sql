@@ -9,6 +9,4 @@ LEFT JOIN
 ON
     p.employee_id = e.employee_id
 GROUP BY
-    p.project_id
-ORDER BY
-    p.project_id ASC;
+    p.project_id;
