@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
+| [1511-count-number-of-teams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1511-count-number-of-teams) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1511-count-number-of-teams) |
 ## Graph
 |  |
 | ------- |
@@ -78,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
