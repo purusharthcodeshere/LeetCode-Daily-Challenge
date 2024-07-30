@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Graph
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
@@ -92,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
