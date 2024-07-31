@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1278-product-price-at-a-given-date](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1301-reformat-department-table) |
+| [1317-monthly-transactions-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1317-monthly-transactions-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Divide and Conquer
 |  |
