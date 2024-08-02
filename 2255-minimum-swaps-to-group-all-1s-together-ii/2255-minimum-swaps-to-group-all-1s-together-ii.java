@@ -20,10 +20,17 @@ class Solution {
         }
 
         int max = count;
+        //Now we will check what is the maximum number of 1's
+        //In all the possible windows of nums of size k
         //We are going beyond 'n'
         //until n + k because the question says
         //that the array is a circular array
         for (int i = k; i < N + k; i++) {
+            //Adding the new index that enters the window
+            //And subtracting the index that leaves the window
+            //Adding and subtracting only works because this is a binary array
+            //Else we will have to check whether the going out and the coming in number
+            //Is the same number that we want to keep a count of
             count += nums[i % N] - nums[(i - k + N) % N];
             max = Math.max(max, count);
         } 
