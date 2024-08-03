@@ -1,10 +1,6 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
 
-        if (arr.length != target.length) {
-            return false;
-        }
-        
         int N = arr.length;
         int max = Integer.MIN_VALUE;
         int[] freq = new int[1001];
