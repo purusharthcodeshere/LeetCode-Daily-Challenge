@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1462-list-the-products-ordered-in-a-period](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1523-capital-gainloss) |
 ## Divide and Conquer
 |  |
 | ------- |
