@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1452-restaurant-growth](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1480-movie-rating) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Divide and Conquer
 |  |
 | ------- |
