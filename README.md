@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1523-capital-gainloss](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1670-patients-with-a-condition) |
 ## Divide and Conquer
 |  |
 | ------- |
