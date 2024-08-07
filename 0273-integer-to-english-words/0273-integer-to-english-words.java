@@ -37,11 +37,11 @@ class Solution {
         }
 
         //Trim trailing space
-        if (ans.length() > 0 && ans.charAt(ans.length() - 1) == ' ') {
-            ans.setLength(ans.length() - 1);
-        }
+        // if (ans.length() > 0 && ans.charAt(ans.length() - 1) == ' ') {
+        //     ans.setLength(ans.length() - 1);
+        // }
 
-        return ans.toString();
+        return ans.toString().trim();
     }
 
     public String numberToWords(int num) {
@@ -68,11 +68,11 @@ class Solution {
             count++;
         }
 
-        //Trim trailing space
-        if (ans.length() > 0 && ans.charAt(ans.length() - 1) == ' ') {
-            ans.setLength(ans.length() - 1);
-        }
+        // //Trim trailing space
+        // if (ans.length() > 0 && ans.charAt(ans.length() - 1) == ' ') {
+        //     ans.setLength(ans.length() - 1);
+        // }
 
-        return ans.toString();
+        return ans.toString().trim();
     }
 }
