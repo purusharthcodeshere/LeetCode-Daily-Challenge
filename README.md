@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
@@ -164,4 +165,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
