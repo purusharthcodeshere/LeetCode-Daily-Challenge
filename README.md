@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Linked List
 |  |
 | ------- |
@@ -338,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
