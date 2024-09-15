@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0564-find-the-closest-palindrome](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0664-strange-printer) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1240-stone-game-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0476-number-complement](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
