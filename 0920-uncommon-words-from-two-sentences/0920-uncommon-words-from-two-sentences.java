@@ -1,13 +1,15 @@
 class Solution {
     public String[] uncommonFromSentences(String s1, String s2) {
-        //Concatenate both the sentences with a space in between
-        String s = s1 + " " + s2;
+
         //Create a HashMap to store the word counts
         HashMap<String, Integer> wordCount = new HashMap<String, Integer>();
-        //Split the combined string into words
-        String[] words = s.split(" ");
+        //Split the strings into words and
         //Count the occurences of each word
-        for (String word : words) {
+        for (String word : s1.split(" ")) {
+            wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
+        }
+
+        for (String word : s2.split(" ")) {
             wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
         }
 
