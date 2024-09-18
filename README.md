@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0564-find-the-closest-palindrome) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
