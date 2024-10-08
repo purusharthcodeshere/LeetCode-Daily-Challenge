@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2727-number-of-senior-citizens) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
