@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0567-permutation-in-string) |
