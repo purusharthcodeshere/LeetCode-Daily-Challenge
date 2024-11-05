@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1002-maximum-width-ramp) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0273-integer-to-english-words) |
