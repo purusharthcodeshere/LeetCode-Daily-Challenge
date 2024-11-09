@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3394-minimum-array-end) |
 ## Linked List
 |  |
 | ------- |
