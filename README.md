@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0890-lemonade-change) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
