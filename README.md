@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0650-2-keys-keyboard) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
