@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
