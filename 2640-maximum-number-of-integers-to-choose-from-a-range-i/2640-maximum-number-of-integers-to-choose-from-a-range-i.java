@@ -8,7 +8,10 @@ class Solution {
         int count = 0, sum = 0;
 
         for (int i = 1; i <= n; i++) {
-            if (!seen.contains(i) && sum + i <= maxSum) {
+            if (sum + i > maxSum) {
+                break;
+            }
+            if (!seen.contains(i)) {
                 sum += i;
                 count++;
             }
