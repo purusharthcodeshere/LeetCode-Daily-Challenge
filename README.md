@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0870-magic-squares-in-grid) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1197-parsing-a-boolean-expression) |
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1304-longest-happy-string) |
@@ -713,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
