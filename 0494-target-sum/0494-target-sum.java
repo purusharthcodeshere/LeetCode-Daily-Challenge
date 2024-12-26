@@ -13,13 +13,7 @@ public class Solution {
         return calculateWays(nums, 0, 0, target, memo);
     }
 
-    private int calculateWays(
-        int[] nums,
-        int currentIndex,
-        int currentSum,
-        int target,
-        int[][] memo
-    ) {
+    private int calculateWays(int[] nums, int currentIndex, int currentSum, int target, int[][] memo) {
         if (currentIndex == nums.length) {
             // Check if the current sum matches the target
             if (currentSum == target) {
@@ -29,28 +23,14 @@ public class Solution {
             }
         } else {
             // Check if the result is already computed
-            if (
-                memo[currentIndex][currentSum + totalSum] != Integer.MIN_VALUE
-            ) {
+            if (memo[currentIndex][currentSum + totalSum] != Integer.MIN_VALUE) {
                 return memo[currentIndex][currentSum + totalSum];
             }
             // Calculate ways by adding the current number
-            int add = calculateWays(
-                nums,
-                currentIndex + 1,
-                currentSum + nums[currentIndex],
-                target,
-                memo
-            );
+            int add = calculateWays(nums, currentIndex + 1, currentSum + nums[currentIndex], target, memo);
 
             // Calculate ways by subtracting the current number
-            int subtract = calculateWays(
-                nums,
-                currentIndex + 1,
-                currentSum - nums[currentIndex],
-                target,
-                memo
-            );
+            int subtract = calculateWays(nums, currentIndex + 1, currentSum - nums[currentIndex], target, memo);
 
             // Store the result in memoization table
             memo[currentIndex][currentSum + totalSum] = add + subtract;
