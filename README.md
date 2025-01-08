@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1468-check-if-n-and-its-double-exist) |
