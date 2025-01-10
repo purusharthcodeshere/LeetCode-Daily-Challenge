@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
