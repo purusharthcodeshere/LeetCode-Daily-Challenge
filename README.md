@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2067-maximum-number-of-points-with-cost](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2411-spiral-matrix-iv) |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1940-maximum-xor-for-each-query](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
