@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
@@ -601,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2411-spiral-matrix-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
@@ -641,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
@@ -648,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
 |  |
