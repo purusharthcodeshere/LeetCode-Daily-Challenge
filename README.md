@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2201-valid-arrangement-of-pairs](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3189-find-champion-ii) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2171-second-minimum-time-to-reach-destination](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -656,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2035-count-sub-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
