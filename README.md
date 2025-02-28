@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0624-maximum-distance-in-arrays) |
