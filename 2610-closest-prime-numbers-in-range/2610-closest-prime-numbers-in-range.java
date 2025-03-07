@@ -1,0 +1,62 @@
+class Solution {
+
+    public int[] closestPrimes(int left, int right) {
+        // Step 1: Get all prime numbers up to 'right' using sieve
+        boolean[] sieveArray = sieve(right);
+
+        List<Integer> primeNumbers = new ArrayList<>(); 
+        // Store all primes in the range [left, right]
+        for (int num = left; num <= right; num++) {
+            // If number is prime add to the primeNumbers list
+            if (sieveArray[num]) {
+                primeNumbers.add(num);
+            }
+        }
+
+        // Step 2: Find the closest prime pair
+        if (primeNumbers.size() < 2) return new int[] { -1, -1 }; 
+        // Less than two primes available
+
+        int minDifference = Integer.MAX_VALUE;
+        int[] closestPair = new int[2];
+        // setting initial values
+        Arrays.fill(closestPair, -1);
+
+        for (int index = 1; index < primeNumbers.size(); index++) {
+            int difference =
+                primeNumbers.get(index) - primeNumbers.get(index - 1);
+            if (difference < minDifference) {
+                minDifference = difference;
+                closestPair[0] = primeNumbers.get(index - 1);
+                closestPair[1] = primeNumbers.get(index);
+            }
+        }
+
+        return closestPair;
+    }
+
+    private boolean[] sieve(int upperLimit) {
+        // Initiate an int array to mark prime numbers (1 = prime, else it's not)
+        boolean[] sieve = new boolean[upperLimit + 1];
+        // Assuming all numbers as prime initially
+        Arrays.fill(sieve, true);
+
+        // 0 and 1 are not prime
+        sieve[0] = false;
+        sieve[1] = false;
+
+        for (int number = 2; number * number <= upperLimit; number++) {
+            if (sieve[number]) {
+                // Mark all multiples of 'number' as non-prime
+                for (
+                    int multiple = number * number;
+                    multiple <= upperLimit;
+                    multiple += number
+                ) {
+                    sieve[multiple] = false;
+                }
+            }
+        }
+        return sieve;
+    }
+}
