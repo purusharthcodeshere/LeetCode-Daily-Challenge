@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2681-put-marbles-in-bags) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2681-put-marbles-in-bags](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -655,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2509-minimize-xor](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
