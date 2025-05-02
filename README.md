@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0868-push-dominoes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1615-range-sum-of-sorted-subarray-sums) |
