@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
@@ -635,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0567-permutation-in-string) |
