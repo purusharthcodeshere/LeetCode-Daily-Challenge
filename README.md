@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sorting
 |  |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 ## Database
 |  |
 | ------- |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -716,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -953,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2915-count-of-interesting-subarrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |
