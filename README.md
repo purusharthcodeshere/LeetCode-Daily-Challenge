@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
