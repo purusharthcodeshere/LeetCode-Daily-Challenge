@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
