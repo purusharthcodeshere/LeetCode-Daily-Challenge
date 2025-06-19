@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2509-minimize-xor) |
