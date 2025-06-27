@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2300-construct-string-with-repeat-limit) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Prefix Sum
@@ -1115,6 +1119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1656-count-good-triplets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2998-count-symmetric-integers) |
