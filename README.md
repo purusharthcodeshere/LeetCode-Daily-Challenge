@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -758,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Math
 |  |
 | ------- |
@@ -1129,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2998-count-symmetric-integers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3548-find-the-count-of-good-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
