@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3548-find-the-count-of-good-integers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -768,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
