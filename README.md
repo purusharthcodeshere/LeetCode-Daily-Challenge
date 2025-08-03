@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-finding-3-digit-even-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2164-two-best-non-overlapping-events](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1015,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
