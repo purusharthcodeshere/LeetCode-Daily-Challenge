@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3455-minimum-length-of-string-after-operations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -861,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3797-design-spreadsheet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -965,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
