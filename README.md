@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1040,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3647-zero-array-transformation-iii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3647-zero-array-transformation-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
 | ------- |
