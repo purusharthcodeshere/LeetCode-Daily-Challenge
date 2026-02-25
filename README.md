@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1333-sort-the-jumbled-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1051,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0476-number-complement) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1786-count-the-number-of-consistent-strings) |
