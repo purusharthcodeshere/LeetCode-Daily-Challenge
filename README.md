@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0273-integer-to-english-words) |
@@ -1093,6 +1095,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
@@ -1169,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1206,13 +1210,16 @@ Collection of LeetCode questions to ace the coding interview!
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
