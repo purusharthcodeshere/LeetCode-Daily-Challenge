@@ -813,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0870-magic-squares-in-grid) |
+| [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
 | [1240-stone-game-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1202,4 +1203,16 @@ Collection of LeetCode questions to ace the coding interview!
 | [3201-distribute-candies-among-children-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/3637-count-number-of-balanced-permutations) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
