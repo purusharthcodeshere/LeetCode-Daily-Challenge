@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/purusharthcodeshere/LeetCode-Daily-Challenge/tree/master/0283-move-zeroes) |
